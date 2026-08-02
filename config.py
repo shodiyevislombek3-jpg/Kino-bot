@@ -1,8 +1,3 @@
-Kino-bot/
-├── bot.py
-├── database.py
-├── config.py   ← shu yerda
-├── requirements.txt
-├── admin/
-│   ├── .gitkeep
-│   └── config.py  ← hozircha qolsa ham mayli
+BOT_TOKEN = "7292221627:AAGlR4wMgZxvBHnnlc-5PNqUzL8SLhJtLxU"
+
+ADMIN_ID = 897111025
